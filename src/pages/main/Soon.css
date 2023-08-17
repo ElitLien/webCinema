@@ -1,0 +1,42 @@
+.Soon {
+  height: 700px;
+  background-color: #4d90bd;
+}
+#soonP {
+  font-size: 32px;
+  font-weight: 550;
+  padding-top: 25px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.soon-items {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+}
+.soon_text {
+  text-align: center;
+  position: relative;
+  bottom: 5px;
+  height: 150px;
+  background-color: rgba(79, 146, 246, 0.5);
+  box-shadow: 2px 1px 5px 1px #1d1c1c91;
+}
+.soon_img {
+  height: 395px;
+}
+.soon_text_item {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 550;
+}
+.soon_bottom_text {
+  text-align: inherit;
+  font-size: 24px;
+  font-weight: 550;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,30 @@
+.form_head_text {
+  text-align: center;
+  color: #00e2e2;
+  font-weight: 400;
+  font-size: 36px;
+}
+
+p {
+  text-align: center;
+  color: #250839;
+  font-size: 24px;
+}
+
+.imageContainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#down_arrow {
+  position: relative;
+  top: 20px;
+  width: 120px;
+  height: 120px;
+}
+
+.formHeaderContent {
+  padding-top: 102px;
+  padding-bottom: 0px;
+}

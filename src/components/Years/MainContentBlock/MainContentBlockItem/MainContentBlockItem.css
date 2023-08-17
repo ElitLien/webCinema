@@ -1,0 +1,18 @@
+.year_img {
+  height: 395px;
+}
+
+.year_text {
+  text-align: center;
+  position: relative;
+  bottom: 5px;
+  height: 100px;
+  background-color: rgba(79, 146, 246, 0.5);
+  box-shadow: 2px 1px 5px 1px #1d1c1c91;
+}
+
+.year_text_item {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 550;
+}

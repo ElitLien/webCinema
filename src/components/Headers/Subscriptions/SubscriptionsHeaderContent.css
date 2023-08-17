@@ -1,0 +1,12 @@
+.subscriptions_head_text {
+  color: #250839;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 72px;
+}
+
+#sub_image {
+  height: 200px;
+}

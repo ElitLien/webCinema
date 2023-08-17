@@ -1,0 +1,22 @@
+.rating_head_text {
+  color: #250839;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 73px;
+}
+
+#ten_img {
+  position: relative;
+  right: 40px;
+  width: 200px;
+  height: 200px;
+}
+
+#imdb_img {
+  position: relative;
+  left: 50px;
+  width: 200px;
+  height: 200px;
+}

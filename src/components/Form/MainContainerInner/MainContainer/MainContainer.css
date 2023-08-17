@@ -1,0 +1,57 @@
+.mainContainer {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgba(217, 217, 217, 0.9);
+  height: 80%;
+  overflow: scroll;
+  border-radius: 5px;
+}
+
+.form_input {
+  padding: 0;
+  margin: 0;
+  height: 45px;
+  font-size: 18px;
+  width: 100%;
+  background-color: rgba(1, 17, 122, 1);
+  box-shadow: -1px 0 rgba(66, 66, 66, 0.5), 0 1px rgba(66, 66, 66, 0.5),
+    1px 0 rgba(66, 66, 66, 0.5), 0 -1px rgba(66, 66, 66, 0.5);
+}
+.form_row {
+  margin: 10px;
+  width: 70%;
+}
+.txtarea {
+  font-size: 18px;
+  width: 100%;
+  resize: none;
+  box-shadow: -1px 0 rgba(66, 66, 66, 0.5), 0 1px rgba(66, 66, 66, 0.5),
+    1px 0 rgba(66, 66, 66, 0.5), 0 -1px rgba(66, 66, 66, 0.5);
+}
+.form_button {
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  padding-top: 12px;
+  padding-right: 35px;
+  padding-bottom: 13px;
+  padding-left: 35px;
+  margin: 10px;
+  margin-top: 5%;
+  background-color: rgba(1, 17, 122, 0.7);
+  border-radius: 5px;
+  box-shadow: 1px black;
+}
+.form_button:hover {
+  background-color: rgba(1, 17, 122, 1);
+}
+.form_button:active {
+  position: relative;
+  top: 2px;
+}

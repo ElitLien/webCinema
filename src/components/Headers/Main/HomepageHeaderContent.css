@@ -1,0 +1,39 @@
+.head_text {
+  color: #250839;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 73px;
+}
+
+h2 {
+  color: #00e2e2;
+  font-weight: 400;
+  font-size: 36px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.images {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 60%;
+  bottom: 100px;
+}
+
+#ua_logo_1 {
+  position: relative;
+  left: 150px;
+}
+
+#ua_logo_2 {
+  position: relative;
+  left: 150px;
+  bottom: 200px;
+}
