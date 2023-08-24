@@ -12,11 +12,11 @@ function App() {
     <div className="App">
       <Nav />
       <Routes>
-        <Route path="/" element={<Main />} />
-        <Route path="/rating" element={<Rating />} />
-        <Route path="/subscriptions" element={<Subscriptions />} />
-        <Route path="/years" element={<Years />} />
-        <Route path="/form" element={<Form />} />
+        <Route path="/webCinema" element={<Main />} />
+        <Route path="/webCinema/rating" element={<Rating />} />
+        <Route path="/webCinema/subscriptions" element={<Subscriptions />} />
+        <Route path="/webCinema/years" element={<Years />} />
+        <Route path="/webCinema/form" element={<Form />} />
       </Routes>
     </div>
   );
