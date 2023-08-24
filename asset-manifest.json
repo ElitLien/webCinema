@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webCinema/static/css/main.80e6a55f.css",
-    "main.js": "/webCinema/static/js/main.69fc5e42.js",
+    "main.js": "/webCinema/static/js/main.6203421b.js",
     "static/js/787.98413bb4.chunk.js": "/webCinema/static/js/787.98413bb4.chunk.js",
     "static/media/marius-gire-VuN3x0cKC4I-unsplash1.png": "/webCinema/static/media/marius-gire-VuN3x0cKC4I-unsplash1.70b67641d54be34ebb22.png",
     "static/media/паразити.png": "/webCinema/static/media/паразити.fb39dfc37e327088bc72.png",
@@ -25,11 +25,11 @@
     "static/media/calendar.png": "/webCinema/static/media/calendar.71bafdeec88efe71203b.png",
     "index.html": "/webCinema/index.html",
     "main.80e6a55f.css.map": "/webCinema/static/css/main.80e6a55f.css.map",
-    "main.69fc5e42.js.map": "/webCinema/static/js/main.69fc5e42.js.map",
+    "main.6203421b.js.map": "/webCinema/static/js/main.6203421b.js.map",
     "787.98413bb4.chunk.js.map": "/webCinema/static/js/787.98413bb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80e6a55f.css",
-    "static/js/main.69fc5e42.js"
+    "static/js/main.6203421b.js"
   ]
 }
