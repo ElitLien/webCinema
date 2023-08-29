@@ -23,11 +23,6 @@ function App() {
         <Route path="/years" element={<Years />} />
         <Route path="/form" element={<Form />} />
       </Routes>
-      <MainHeader />
-      <Reviews />
-      <Soon />
-      <News />
-      <Footer />
     </div>
   );
 }
