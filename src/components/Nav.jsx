@@ -6,7 +6,7 @@ function Nav() {
   return (
     <div className="nav-content">
       <div className="sections">
-        <Link class="nav_link" to="/">
+        <Link class="nav_link" to="/webCinema">
           Головна
         </Link>
         <Link class="nav_link" to="/rating">
